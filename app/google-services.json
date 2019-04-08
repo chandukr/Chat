@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371247063782",
+    "firebase_url": "https://cskchat-6aa25.firebaseio.com",
+    "project_id": "cskchat-6aa25",
+    "storage_bucket": "cskchat-6aa25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371247063782:android:ab141cea74d614e8",
+        "android_client_info": {
+          "package_name": "vt.com.cskchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371247063782-u6v4nnk5ce75h7ih8tcqius3vthtbqu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCKq-QX0oE3BodFED-sBXdKyh9P355u1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
